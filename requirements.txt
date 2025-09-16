@@ -1,0 +1,8 @@
+python-telegram-bot
+python-dotenv
+requests
+base58
+web3
+solana
+solders
+pynacl
